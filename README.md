@@ -19,11 +19,13 @@ This app predicts the strength of Interlocking Stabilized Soil Blocks (ISSBs) us
 - “Finite Element Modelling of Interlocking Stabilised Laterite Soil Block Walls,”
 -  SN Applied Sciences, Springer, Vol. 3, Article  225  (2021)].
 
-## Contact
+## Author
 
-- Author: Mariam Osbert
+Mariam Osbert
   
-Bachelors in Civil Engineering | Minors in Computer Science Engineering | 
+Bachelors in Civil Engineering | Minors in Computer Science Engineering | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-o-309b10248)
+
+
 
 
 
