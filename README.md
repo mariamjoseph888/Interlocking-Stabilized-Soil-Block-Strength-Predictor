@@ -21,7 +21,8 @@ This app predicts the strength of Interlocking Stabilized Soil Blocks (ISSBs) us
 
 ## Contact
 
-- Author: Mariam Osbert <3
+- Author: Mariam Osbert
+
 
 
 
